@@ -1,4 +1,4 @@
-from fastapi import APIRouter,Path
+from fastapi import APIRouter
 from schemas.health import BMIResult, health
 
 router = APIRouter()
