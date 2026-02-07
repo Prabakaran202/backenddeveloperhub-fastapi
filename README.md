@@ -61,22 +61,41 @@ The server runs on http://127.0.0.1:8000 by default. Open this in the browser an
 ```
 
 Task 01 – Run FastAPI project
+
 Task 02 – Understand project structure
+
 Task 03 – Create /health API
+
 Task 04 – Create /ping API
+
 Task 05 – Response models
+
 Task 06 – Query parameters
+
 Task 07 – Path parameters
+
 Task 08 – Error handling
+
 Task 09 – SQLite setup
+
 Task 10 – Create model
+
 Task 11 – Create table
+
 Task 12 – Create POST API
+
 Task 13 – Create GET API
+
 Task 14 – Update API
+
 Task 15 – Delete API
+
 Task 16 – Pagination
+
 Task 17 – Environment variables
+
 Task 18 – Project cleanup
+
 Task 19 – Documentation update
+
 Task 20 – Final review & refactor
